@@ -1,0 +1,53 @@
+fname,lname,city,state,zip,email,status
+John,Clark,Milwaukee,WI,53201,John_Clark@gmail.com,Lead
+John,Williams,Seattle,WA,98101,John_Williams@outlook.com,Prospect
+Patricia,Young,Seattle,WA,98101,Patricia_Young@outlook.com,Customer
+David,Smith,Miami,FL,33101,David_Smith@gmail.com,Prospect
+Michael,Smith,Louisville,KY,40201,Michael_Smith@gmail.com,Customer
+Michael,Wilson,Chicago,IL,60601,Michael_Wilson@gmail.com,Prospect
+Michael,Baker,Boston,MA,02101,Michael_Baker@yahoo.com,Lead
+Linda,Roberts,Austin,TX,73301,Linda_Roberts@gmail.com,Customer
+Linda,King,Raleigh,NC,27601,Linda_King@outlook.com,Lead
+Patricia,Campbell,Columbus,OH,43085,Patricia_Campbell@gmail.com,Lead
+Robert,Thomas,Kansas City,MO,64101,Robert_Thomas@gmail.com,Lead
+David,Robinson,Indianapolis,IN,46201,David_Robinson@gmail.com,Lead
+James,Evans,Albuquerque,NM,87101,James_Evans@gmail.com,Customer
+Robert,Brown,Seattle,WA,98101,Robert_Brown@aol.com,Customer
+Mary,Ramirez,San Diego,CA,92101,Mary_Ramirez@hotmail.com,Prospect
+Elizabeth,Thompson,Hartford,CT,06101,Elizabeth_Thompson@yahoo.com,Prospect
+Patricia,Davis,Hartford,CT,06101,Patricia_Davis@yahoo.com,Customer
+Robert,Collins,Denver,CO,80201,Robert_Collins@aol.com,Customer
+Jennifer,Mitchell,Oklahoma City,OK,73101,Jennifer_Mitchell@gmail.com,Customer
+Michael,Johnson,Phoenix,AZ,85001,Michael_Johnson@hotmail.com,Prospect
+John,Parker,Tucson,AZ,85701,John_Parker@aol.com,Inactive
+Linda,Lee,Philadelphia,PA,19101,Linda_Lee@outlook.com,Lead
+Jennifer,Garcia,Philadelphia,PA,19101,Jennifer_Garcia@gmail.com,Customer
+Robert,Lewis,Boston,MA,02101,Robert_Lewis@mail.com,Lead
+Mary Ann,Miller,Boston,MA,2101,Mary Ann_Miller@yahoo.com,Prospect
+Barbara,Wright,El Paso,TX,79901,Barbara_Wright@gmail.com,Prospect
+James,White,San Antonio,TX,78201,James_White@hotmail.com,Customer
+Mary,Walker,Fresno,CA,93650,Mary_Walker@gmail.com,Customer
+Barbara,Perez,Las Vegas,NV,89101,Barbara_Perez@gmail.com,Customer
+Elizabeth,Scott,Houston,TX,77001,Elizabeth_Scott@gmail.com,Inactive
+James,Green,Washington,DC,20001,James_Green@aol.com,Inactive
+James,Smith,Fort Worth,TX,76101,James_Smith@gmail.com,Customer
+John,Anderson,Atlanta,GA,30301,John_Anderson@gmail.com,Prospect
+Patricia,Jackson,Charlotte,NC,28201,Patricia_Jackson@gmail.com,Inactive
+Barbara,Carter,New York,NY,10001,Barbara_Carter@gmail.com,Lead
+David,Jones,Seattle,WA,98101,David_Jones@outlook.com,Lead
+David,Edwards,Los Angeles,CA,90001,David_Edwards@gmail.com,Customer
+Robert,Nelson,San Francisco,CA,94101,Robert_Nelson@hotmail.com,Customer
+Jennifer,Rogers,Portland,OR,97201,Jennifer_Rogers@hotmail.com,Inactive
+Patricia,Morris,Baltimore,MD,21201,Patricia_Morris@gmail.com,Customer
+John,Adams,Sacramento,CA,94203,John_Adams@hotmail.com,Lead
+Michael,Harris,Indianapolis,IN,46201,Michael_Harris@aol.com,Lead
+Jennifer,Allen,Denver,CO,80201,Jennifer_Allen@gmail.com,Lead
+Elizabeth,Phillips,Jacksonville,FL,32099,Elizabeth_Phillips@gmail.com,Customer
+Elizabeth,Lopez,Philadelphia,PA,19101,Elizabeth_Lopez@aol.com,Prospect
+Jennifer,Martin,Dallas,TX,75201,Jennifer_Martin@gmail.com,Prospect
+James,Gonzalez,San Antonio,TX,78201,James_Gonzalez@outlook.com,Lead
+Mary,Stewart,Raleigh,NC,27601,Mary_Stewart@hotmail.com,Customer
+Barbara,Hernandez,Memphis,TN,37501,Barbara_Hernandez@gmail.com,Customer
+Linda,Martinez,Nashville,TN,37201,Linda_Martinez@gmail.com,Customer
+Mary Ann,Morris,Detroit,MI,48201,Mary Ann_Morris@gmail.com,Customer
+David,Taylor,San Jose,CA,95101,David_Taylor@hotmail.com,Prospect
